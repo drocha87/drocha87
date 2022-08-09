@@ -29,6 +29,6 @@ I'm a self-taught passionate Backend and FrontEnd developer from Brasil!
 
 <a href="https://github.com/drocha87/drocha87"><img align="center" src="https://github-readme-stats.vercel.app/api?username=drocha87&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diego Rocha's github stats" /></a>
 
-<a href="https://github.com/drocha87/drocha87"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drocha87&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/drocha87/drocha87"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drocha87&layout=compact&theme=buefy&hide_border=true&langs_count=6&hide=Vim%20script,vue,css,shell,html,scss"/></a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drocha87)](https://github.com/drocha87/drocha87)
